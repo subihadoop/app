@@ -1,0 +1,7 @@
+/*header style*/
+.header{
+    background-image: url('/assets/images/profile.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+   }
